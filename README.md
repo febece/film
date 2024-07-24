@@ -1,2 +1,2 @@
 # film
-SQL patika ödev 1
+SQL patika ödevler
